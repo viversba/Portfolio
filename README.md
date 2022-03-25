@@ -22,7 +22,7 @@ The game has a level system with increased difficulty like increased randomized 
 
 The game was made using Unreal Engine 4.26 and C++ for the logic. 
 
-Click [here](https://github.com/viversba/GravityLander) for more information.
+Click [here](https://github.com/viversba/GravityLander/blob/master/README.md) for more information.
 
 <hr />
 
@@ -56,7 +56,7 @@ The tool is built on top of Antlr4, and uses purely C# code and custom generated
 
 ![DEngine2](https://media.giphy.com/media/R5KZAC70Bx63JnT1iW/giphy.gif)
 
-Click [here](https://github.com/viversba/UnityUML/releases/tag/V1.0.1) for more information.
+Click [here](https://github.com/viversba/UnityUML/blob/master/README.md) for more information.
 
 Click [here](https://github.com/viversba/UnityUML/releases/tag/V1.0.1) for the latest release.
 

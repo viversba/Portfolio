@@ -6,9 +6,11 @@
 
 <hr />
 
-## Project Possession
+## Project Possession - July 2022
 
 #### Platform: Windows
+
+#### Efecto Studios. Role: Gameplay Developer
 
 #### Build: UE5/C++
 
@@ -19,7 +21,7 @@ Project Possession is a top down game with the sole purpose of eliminating as ma
 
 I worked as a gameplay developer doing the dash behaviour of the characters and it's replication on the server and client machines.
 
-## Gravity Lander
+## Gravity Lander - January 2022
 
 #### Platform: Windows
 
@@ -39,7 +41,7 @@ Click [here](https://github.com/viversba/GravityLander/blob/master/README.md) fo
 
 <hr />
 
-## Unity UML
+## Unity UML - January 2019
 
 #### Platform: Unity Editor
 #### Build: Unity/C#
@@ -75,7 +77,7 @@ Click [here](https://github.com/viversba/UnityUML/releases/tag/V1.0.1) for the l
 
 <hr />
 
-## Inverse Kinematics with Arduino - Research Project
+## Inverse Kinematics with Arduino - Research Project - June 2018
 
 #### Platform: Android & Arduino
 #### Build: Unity/C# & C++
@@ -92,7 +94,7 @@ The project features 9DOF movement capture with noise filtering for the Arduino 
 
 <hr />
 
-## Game Based Learning
+## Game Based Learning - May 2018
 
 #### Platform: Android
 
@@ -110,7 +112,7 @@ The executable and the source code belong to the National University of Colombia
 
 <hr />
 
-## Swarm War
+## Swarm War - October 2020
 
 #### Platform: Web
 
@@ -126,7 +128,7 @@ Click [here](https://agencyclients.8thwall.app/swarmwar1/) for a live demo.
 
 <hr />
 
-## F35 Advertising campaign
+## F35 Advertising campaign - April 2021
 
 #### Platform: Web
 

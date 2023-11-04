@@ -6,6 +6,24 @@
 
 <hr />
 
+## Decoherence - 2023
+
+#### Platform: Apple Arcade
+
+#### Efecto Studios. Role: Post Release Support
+
+#### Build: UE4/C++/Obj-C
+
+#### Download on AppStore: [Decoherence](https://apps.apple.com/mx/app/decoherence/id1469225525).
+![Decoherence](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/65/d2/5665d2dd-8062-6e0e-b2ff-4fa3dff36968/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp)
+
+Decoherence is a top down tactical robot arena. The game was originally released on [Steam](https://store.steampowered.com/app/561660/Decoherence/), but a port for Apple Arcade (iOS, macOS, TVOS) was created when the Apple Arcade subscribtion was launched.
+
+I worked as a C++ and backend developer offering support to all the Apple Arcade platforms. My roles included:
+* Bug fixing.
+* Release pipelines manteinance.
+* App signing process to upload to AppStore.
+
 ## Project Possession - August 2022
 
 #### Platform: Windows

@@ -6,6 +6,26 @@
 
 <hr />
 
+## Sniper - 2023
+
+#### Platform: Windows & Linux
+
+#### Role: Gameplay programmer
+
+#### Build: Godot/GDScript
+
+#### Download on itch.io: [Sniper](https://steback.itch.io/sniper).
+
+![Sniper](https://img.itch.zone/aW1nLzE0NDY1Njc4LnBuZw==/original/WFTLMk.png)
+
+Sniper is a 2D game in which you are given a randomly generated character that you have to find in the crowd and kill. You're given a contract with the character to find and in a 'where's waldo' fashion, your task is to find them and also eliminate them.
+
+![Sniper-InGame](https://img.itch.zone/aW1hZ2UvMjQzMzUzMS8xNDQ3OTE3NS5wbmc=/794x1000/EjP%2FsH.png)
+
+I worked as GDScript developer on many aspects of the game:
+* Random character generation & behavior.
+* Environment design.
+
 ## Decoherence - 2023
 
 #### Platform: Apple Arcade
